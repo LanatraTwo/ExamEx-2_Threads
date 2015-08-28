@@ -1,0 +1,1 @@
+Practically nothing since it's still all running in one thread and the GUI is still blocked

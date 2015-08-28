@@ -1,0 +1,11 @@
+{
+    "project_name"      : "HelloWorld",
+    "output_dir"  : "output",
+    "sources_dir" : "src",
+    "resources"   : [],
+    "libs"        : ["jars/*"],
+    "encoding"    : "utf-8",
+
+    "entry_file"        : "threadsObserver/RandomUserForm.java",
+    "entry_point"       : "threadsObserver.RandomUserForm"
+}
